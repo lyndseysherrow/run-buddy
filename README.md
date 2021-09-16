@@ -7,8 +7,8 @@ A webstie that offers fitness training services.
 * HTML
 * CSS
 
-##Website
+## Website
 https://lernantino.github.io/run-buddy/
 
-##Contribution
+## Contribution
 Made with ❤️ by Lyndsey Sherrow
